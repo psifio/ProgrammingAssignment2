@@ -5,12 +5,14 @@
 #	set the value of the matrix's inverse
 #	get the value of the matrix's inverse
 
+
+
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## Write a short comment 
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
